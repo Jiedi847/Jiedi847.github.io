@@ -8,4 +8,5 @@
 </div>
 
 ## 简介
-小游戏：杰弟按摩游戏
+小游戏：杰弟按摩游戏（原雷普先辈，Rap eSenpai）
+原作者：https://github.com/Xiaohuang257
