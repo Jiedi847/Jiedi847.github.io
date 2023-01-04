@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://jiedi847.github.io/Jiedi_Small_Game/index.html"><img src="https://jiedi847.github.io/Jiedi_Small_Game/index.html/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="RapeSenpai"></a>
+  <a href="https://jiedi847.github.io/Jiedi_Small_Game/index.html"><img src="https://jiedi847.github.io/Jiedi_Small_Game/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="RapeSenpai"></a>
 </p>
 <div align="center">
 
